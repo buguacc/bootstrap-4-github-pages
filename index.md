@@ -1,19 +1,17 @@
----
-layout: page
-title: 使用帮助
----
-
 ### 使用教程
 
 #### 账号注册
 
 1. 点击[官网](https://bugu6666.ml)打开网站
+
 2. 点击**会员中心**或可以点击[这里](https://swo6p9.wodejsq.com/reg)进行账号注册
 
 #### 官方软件使用教程
 
 1. 点击[官网](https://bugu6666.ml)打开网站
+
 2. 点击**客户端下载**，然后选择相应客户端下载（ [Windows](https://d.xiazai123.xyz/bugu998.exe) - [Android](https://d.xiazai123.xyz/bugu998.apk) - [IOS](https://ios.yunjiasu.info/new.html) ）
+
 3. 登录软件即可选择节点连接。
 
 **注**：iOS客户下载app之后须使用港区账号验证一次，即可正常登录软件选择节点连接进行使用（**务必先[注册](https://swo6p9.wodejsq.com/reg)再点击下载**）。
@@ -26,7 +24,9 @@ title: 使用帮助
 ##### 软件下载
 
 - Windows思科下载地址： [点击下载](https://www.catpaw-2012.com/download/anyconnect/anyconnect-win-4.7.04056.msi)
+
 - Android思科下载地址： [点击下载](https://www.lanzous.com/i4iz8rc)
+
 - iOS在AppStore搜索**'anyconnect'**下载即可。
 
 ##### 软件设置
@@ -52,11 +52,7 @@ title: 使用帮助
 
 #### 咨询
 
-咨询时间： 10：00 - 12：00 
-
-          14：00 - 18：00 
-          
-          20：00 - 22：00
+咨询时间： 10：00 - 22：00
 
 咨询方式： [QQ](https://duan.cf/qq) - [Telegram](https://t.me/buguacc)
 
