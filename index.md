@@ -7,21 +7,23 @@ title: 客服暂时不在线，阅读以下教程可解决90%问题
 
 #### 账号注册
 
-1. 点击[官网](https://bugu6666.ml)打开网站
+1. 点击[官网](https://bugu6666.ml)打开网站,点击**会员中心**进行注册
 
-2. 点击**会员中心**或可以点击[这里](https://swo6p9.wodejsq.com/reg)进行账号注册
+2. 可以点击[这里](https://swo6p9.wodejsq.com/reg)进行账号注册
 
 #### 账号充值
 
 > 解决账号到期问题。
 
-点击[这里](https://swo6p9.wodejsq.com/login)打开网站登录，选择对应的套餐充值即可。
+1. 使用官方Windows和Android客户端的可以直接在软件上进行充值。
+
+2. iOS用户或使用思科软件的可以点击[这里](https://swo6p9.wodejsq.com/login)打开网站，登录之后选择对应的套餐充值即可。
 
 #### 官方软件使用教程
 
-1. 点击[官网](https://bugu6666.ml)打开网站
+1. 点击[官网](https://bugu6666.ml)打开网站，点击**客户端下载**，然后选择相应客户端下载。
 
-2. 点击**客户端下载**，然后选择相应客户端下载（ [Windows](https://d.xiazai123.xyz/bugu998.exe) - [Android](https://d.xiazai123.xyz/bugu998.apk) - [IOS](https://ios.yunjiasu.info/new.html) ）
+2. 点击后面选择对应进行下载，iOS务必先[注册](https://swo6p9.wodejsq.com/reg)再下载。（ [Windows](https://d.xiazai123.xyz/bugu998.exe) - [Android](https://d.xiazai123.xyz/bugu998.apk) - [IOS](https://ios.yunjiasu.info/new.html) ）
 
 3. 登录软件即可选择节点连接。
 
@@ -52,7 +54,7 @@ title: 客服暂时不在线，阅读以下教程可解决90%问题
 
 - Android思科下载地址： [点击下载](https://www.lanzous.com/i4iz8rc)
 
-- iOS在AppStore搜索**'anyconnect'**下载即可。
+- iOS在AppStore搜索** anyconnect **下载即可。
 
 ##### 软件设置
 
